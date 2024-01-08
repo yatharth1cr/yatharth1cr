@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **yatharth1cr/yatharth1cr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -41,9 +39,9 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://dev.to/yatharth1cr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yatharth1cr" height="30" width="40" /></a>
 <a href="https://twitter.com/yatharthgiri108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yatharthgiri108" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yatharth giri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yatharth giri" height="30" width="40" /></a>
-<a href="https://medium.com/@yatharthgiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yatharthgiri" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/yatharth giri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yatharth giri" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yatharth-giri-b51579287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yatharth giri" height="30" width="40" /></a>
+<a href="https://medium.com/@yatharthgiri187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yatharthgiri" height="30" width="40" /></a>
+<a href="https://youtube.com/@YatharthGiri?si=LwQc-xeCv-qpPGmG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yatharth giri" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
