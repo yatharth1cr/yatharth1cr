@@ -1,5 +1,5 @@
 <!--
-**yatharth1cr/yatharth1cr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yatharth1cr/yatharth1cr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 Here are some ideas to get you started:
 
