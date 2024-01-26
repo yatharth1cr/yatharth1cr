@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+<a href="https://medium.com/@yatharthgiri187" alt="@yatharthgiri187" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
