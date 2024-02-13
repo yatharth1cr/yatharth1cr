@@ -2,7 +2,6 @@
 <h3 align="center"></h3>  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yatharth1cr&label=Profile%20views&color=0e75b6&style=flat" alt="yatharth1cr" /> </p>
-
 <p align="left"> <a href="https://twitter.com/yatharthgiri108" target="blank"><img src="https://img.shields.io/twitter/follow/yatharthgiri108?logo=twitter&style=for-the-badge" alt="yatharthgiri108" /></a> </p>
 
 # 💫 About Me:
