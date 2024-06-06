@@ -6,7 +6,7 @@
 # 💫 About Me:
  
 🔭 I’m currently working on **my skills.**<br>
-👯 I’m looking to collaborate on **HTML, CSS & Javascript.**<br>
+👯 I’m looking to collaborate on **HTML, CSS, Javascript, Node.js & MongoDB.**<br>
 🌱 I’m currently learning **Full stack web development.**<br>
 💬 Ask me about **HTML,CSS & Javascript.**<br>
 📫 How to reach me **yatharthgiri187@gmail.com**<br>
