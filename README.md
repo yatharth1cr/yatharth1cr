@@ -1,3 +1,8 @@
+<!--<img src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="MasterHead" style="width: auto; height: auto; object-fit: cover;">-->
+![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif)
+<!-- profile.md -->
+<!-- <img src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="MasterHead" style="width: 100%; height: auto; object-fit: cover;">-->
+
 <h1 align="center">Hi 👋, I'm Yatharth</h1>
 <h3 align="center"></h3>  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yatharth1cr&label=Profile%20views&color=0e75b6&style=flat" alt="yatharth1cr" /> </p>
