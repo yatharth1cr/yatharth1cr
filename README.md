@@ -1,10 +1,14 @@
 <!--<img src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="MasterHead" style="width: auto; height: auto; object-fit: cover;">-->
-![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif)
+<!--![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif)-->
+![j](https://user-images.githubusercontent.com/70682152/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif)
 <!-- profile.md -->
 <!-- <img src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="MasterHead" style="width: 100%; height: auto; object-fit: cover;">-->
-
+<!-- profile.md 
 <h1 align="center">Hi 👋, I'm Yatharth</h1>
 <h3 align="center"></h3>  
+-->
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=green&amp;size=30&amp;lines=Hi+👋,+I'm+Yatharth+Giri+Giri;" style="max-width: 100%;">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yatharth1cr&label=Profile%20views&color=0e75b6&style=flat" alt="yatharth1cr" /> </p>
 <p align="left"> <a href="https://twitter.com/yatharthgiri108" target="blank"><img src="https://img.shields.io/twitter/follow/yatharthgiri108?logo=twitter&style=for-the-badge" alt="yatharthgiri108" /></a> </p>
 
