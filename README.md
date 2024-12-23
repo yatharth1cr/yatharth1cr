@@ -8,7 +8,7 @@
 # 💫 About Me:
  
 🔭 I’m currently working on my **Web Development skills**.<br>
-👯 I’m looking to collaborate on **React and Express related project**<br>
+👯 I’m looking to collaborate on **React related project**<br>
 🌱 I’m currently learning **Full stack web development**.<br>
 💬 Ask me about **HTML, CSS, Javascript, MongoDB, Node.js, React and Express**<br>
 📫 How to reach me **yatharthgiri187@gmail.com**<br>
