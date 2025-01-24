@@ -1,5 +1,4 @@
-![j](https://quotefancy.com/media/wallpaper/3840x2160/8120700-eat-sleep-code-repeat-Wallpaper.jpg)
-
+ 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=green&amp;size=30&amp;lines=Hi+👋,+I'm+Yatharth+Giri;" style="max-width: 100%;">
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=yatharth1cr&label=Profile%20views&color=0e75b6&style=flat" alt="yatharth1cr" /> </p>
