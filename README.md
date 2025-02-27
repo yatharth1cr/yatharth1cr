@@ -1,16 +1,15 @@
- 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=green&amp;size=30&amp;lines=Hi+👋,+I'm+Yatharth+Giri;" style="max-width: 100%;">
-
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=yatharth1cr&label=Profile%20views&color=0e75b6&style=flat" alt="yatharth1cr" /> </p>
-<!-- <p align="left"> <a href="https://twitter.com/yatharthgiri108" target="blank"><img src="https://img.shields.io/twitter/follow/yatharthgiri108?logo=twitter&style=for-the-badge" alt="yatharthgiri108" /></a> </p> -->
+ <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=green&amp;size=30&amp;lines=Hi+👋,+I'm+Yatharth+Giri;" style="max-width: 100%;">
 
 # 💫 About Me:
  
 🔭 I’m currently working on my **Web Development skills**.<br>
 👯 I’m looking to collaborate on **React related project**<br>
-🌱 I’m currently learning **Full stack web development**.<br>
 💬 Ask me about **HTML, CSS, Javascript, MongoDB, Node.js, React and Express**<br>
 📫 How to reach me **yatharthgiri187@gmail.com**<br>
+
+## 🚀 What I'm Currently Doing:
+🔧 Working With: **Rentopia** – A full-stack rent-clothes/jewelry project with Next.js & TypeScript.<br>
+💡 Job Hunting: Actively looking for a **Web Developer** role!<br>
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
