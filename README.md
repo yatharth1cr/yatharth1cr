@@ -7,7 +7,7 @@
 💬 Ask me about **HTML, CSS, Javascript, MongoDB, Node.js, React and Express**<br>
 📫 How to reach me **yatharthgiri187@gmail.com**<br>
 
-## 🚀 What I'm Currently Doing:
+### 🚀 What I'm Currently Doing:
 🔧 Working With: **Rentopia** – A full-stack rent-clothes/jewelry project with Next.js & TypeScript.<br>
 💡 Job Hunting: Actively looking for a **Web Developer** role!<br>
  
