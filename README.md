@@ -3,10 +3,10 @@
 # 💫 About Me:
  
 🔭 I’m currently working on my **Web Development skills**.<br>
-👯 I’m looking to collaborate on **React related project**<br>
+👯 I’m looking to collaborate on **React & Node.js project**<br>
 💬 Ask me about **HTML, CSS, Javascript, MongoDB, Node.js, React and Express**<br>
 📫 How to reach me **yatharthgiri187@gmail.com**<br>
-🌐 Portfolio: [click here to see my portfolio](https://portfolio-five-olive-73.vercel.app)
+🌐 Portfolio: [click here to see portfolio](https://portfolio-five-olive-73.vercel.app)
 
 ### 🚀 What I'm Currently Doing:
 🧠 **LangChain Projects** – Exploring how to build LLM-powered apps  
@@ -24,23 +24,26 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,mongodb,expressjs,react,nodejs,md,git,github,vscode,npm,postman,vercel,stackoverflow,twitter,linkedin&perline=13)](#)
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Tech Stack:**  
+
+- **Frontend**: HTML, CSS, JavaScript, React.js, Tailwind CSS, MUI, Bootstrap  
+- **Backend**: Node.js, Express.js, MongoDB  
+- **AI/LLM Tools**: LangChain.js, OpenAI, Groq, Copilot, ChatGPT, Firebase Studio, Windsurf 
+- **Tools & Others**: Git, GitHub, Postman, Canva, Figma, Vercel, npm, VS Code
+
+<!-- [![My Skills](https://skillicons.dev/icons?i=html,css,js,mongodb,expressjs,react,nodejs,md,git,github,vscode,npm,postman,vercel,stackoverflow,twitter,linkedin&perline=13)](#) -->
 
 ---
 
-# 📊 GitHub Stats:
+# 📊 GitHub Statistics:
 
-![](https://github-readme-stats.vercel.app/api?username=yatharth1cr&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yatharth1cr&show_icons=true&theme=tokyonight" />
+<!-- [](https://github-readme-stats.vercel.app/api?username=yatharth1cr&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 ---
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=yatharth1cr&theme=dark&hide_border=false)<br/>
-
----
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yatharth1cr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+---
+<!-- [](https://github-readme-streak-stats.herokuapp.com/?user=yatharth1cr&theme=dark&hide_border=false)<br/> -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yatharth1cr&theme=tokyonight" />
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
