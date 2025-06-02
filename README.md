@@ -6,9 +6,10 @@
 👯 I’m looking to collaborate on **React related project**<br>
 💬 Ask me about **HTML, CSS, Javascript, MongoDB, Node.js, React and Express**<br>
 📫 How to reach me **yatharthgiri187@gmail.com**<br>
+🌐 Portfolio: [click here to see my portfolio](https://portfolio-five-olive-73.vercel.app)
 
 ### 🚀 What I'm Currently Doing:
-🔧 Working With: **Rentopia** – A full-stack rent-clothes/jewelry project with Next.js & TypeScript.<br>
+🧠 **LangChain Projects** – Exploring how to build LLM-powered apps  
 💡 Job Hunting: Actively looking for a **Web Developer** role!<br>
  
 <h3 align="left">Connect with me:</h3>
