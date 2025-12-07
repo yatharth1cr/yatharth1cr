@@ -28,7 +28,8 @@
 - **Frontend**: HTML, CSS, JavaScript, React.js, Tailwind CSS, MUI, Bootstrap  
 - **Backend**: Node.js, Express.js, MongoDB  
 - **AI/LLM Tools**: LangChain.js, OpenAI, Groq, Copilot, ChatGPT, Firebase Studio, Windsurf 
-- **Tools & Others**: Git, GitHub, Postman, Canva, Figma, Vercel, npm, VS Code
+- **Deployment & Hosting**: AWS, Hostinger, Vercel, Render
+- **Tools & Others**: Git, GitHub, Postman, Canva, Figma, npm, VS Code
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=html,css,js,mongodb,expressjs,react,nodejs,md,git,github,vscode,npm,postman,vercel,stackoverflow,twitter,linkedin&perline=13)](#) -->
 
