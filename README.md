@@ -1,16 +1,21 @@
  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=green&amp;size=30&amp;lines=Hi+👋,+I'm+Yatharth+Giri;" style="max-width: 100%;">
 
 # 💫 About Me:
+
+🌱 I’m currently learning Advanced System Design
+👯 I’m looking to collaborate on React, React Native and Node.js projects
+💬 Ask me about Full Stack Development, React Native, Vue, Nuxt.js, Next.js, and Node.js
+📫 How to reach me: praveenkrsaini0@gmail.com
+⚡ Fun fact: I love exploring new tech stacks.
  
-🔭 I’m currently working on my **Web Development skills**.<br>
-👯 I’m looking to collaborate on **React & Node.js project**<br>
-💬 Ask me about **HTML, CSS, Javascript, MongoDB, Node.js, React and Express**<br>
+🔭 🌱 I’m currently exploring **AI based tech stacks**.<br>
+👯 I’m looking to collaborate on **MERN Stack & AI related project**<br>
+💬 Ask me about **MERN, Hosting & Deployment**<br>
 📫 How to reach me **yatharthgiri187@gmail.com**<br>
 🌐 Portfolio: [click here to see portfolio](https://portfolio-five-olive-73.vercel.app)
 
 ### 🚀 What I'm Currently Doing:
 🧠 **LangChain Projects** – Exploring how to build LLM-powered apps  
-💡 Job Hunting: Actively looking for a **Web Developer** role!<br>
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
