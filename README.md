@@ -8,8 +8,16 @@
 📫 How to reach me **yatharthgiri187@gmail.com**<br>
 🌐 Portfolio: [click here to see portfolio](https://portfolio-five-olive-73.vercel.app)
 
+### 📄 Experience:
+
+- Trainee(Remote): AltCampus,Dharmshala(Aug 2023-Aug 2024)
+- Full Stack Developer(Remote): Freelance, Dharmshala(Aug 2024-Aug 2025)
+- Software Developer(Remote): SpaceTechnologies,TamilNadu(Aug 2025- present)
+
+
 ### 🚀 What I'm Currently Doing:
-🧠 **LangChain Projects** – Exploring how to build LLM-powered apps  
+🧠 **LangChain Projects** – Exploring how to build LLM-powered apps
+💬 **Software Developer at Spacetech**
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
