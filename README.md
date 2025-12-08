@@ -16,7 +16,8 @@
 
 
 ### 🚀 What I'm Currently Doing:
-🧠 **LangChain Projects** – Exploring how to build LLM-powered apps
+
+🧠 **LangChain Projects** – Exploring how to build LLM-powered apps<br>
 💬 **Software Developer at Spacetech**
  
 <h3 align="left">Connect with me:</h3>
