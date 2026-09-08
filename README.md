@@ -22,10 +22,10 @@
 **Trainee (Remote)** — AltCampus, Dharamshala  
 *Aug 2023 – Aug 2024*
 
-**Full Stack Developer (Remote)** — Freelance, Dharamshala  
+**Full Stack Developer (Remote)** — Bengaluru  
 *Aug 2024 – Aug 2025*
 
-**Software Developer (Remote)** — Space Technologies, Tamil Nadu  
+**FullStack Developer (Remote)** — Space Technologies, Bengaluru  
 *Aug 2025 – Present*
 
 ---
