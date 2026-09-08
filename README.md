@@ -26,7 +26,7 @@
 *Aug 2024 – Aug 2025*
 
 **FullStack Developer (Remote)** — Space Technologies, Bengaluru  
-*Aug 2025 – Present*
+*Aug 2025 – Aug 2026*
 
 ---
 
