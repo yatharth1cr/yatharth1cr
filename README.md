@@ -1,4 +1,4 @@
- <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=green&amp;size=30&amp;lines=Hi+👋,+I'm+Yatharth+Giri;" style="max-width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=green&amp;size=30&amp;lines=Hi+👋,+I'm+Yatharth+Giri;" style="max-width: 100%;">
 
 **Software Developer | MERN Stack | AWS | Exploring AI & LLMs**
 
