@@ -19,13 +19,15 @@
 
 ## 📄 Experience
 
-**SDE-1 (Remote)** — Space Technologies, Bengaluru, KA  
+**SDE-1** — Space Technologies, Bengaluru, KA  
 *Mar 2025 – present*
 
-**Software Engineer (Remote)** — Freelance, Bengaluru, KA
+
+**Software Engineer** — Freelance, Bengaluru, KA <br/>
 *Jun 2024 – Mar 2025*
 
-**Trainee Engineer (Remote)** — AltCampus, Dharamshala, HP  
+
+**Trainee Engineer** — AltCampus, Dharamshala, HP  
 *Aug 2023 – Jun 2024*
 
 
@@ -36,9 +38,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/yatharth-giri-b51579287/)
 - 🐦 [Twitter/X](https://twitter.com/yatharthgiri108)
-- 📸 [Instagram](https://www.instagram.com/_yatharth1.cr/)
 - ✍️ [Medium](https://medium.com/@yatharthgiri187)
-- ▶️ [YouTube](https://youtube.com/@YatharthGiri)
 - 👨‍💻 [Dev.to](https://dev.to/yatharth1cr)
 
 ---
@@ -53,13 +53,15 @@ Compatibility • Accessibility
 Node.js • Express.js • MongoDB • REST APIs • JWT Authentication • WebSockets
 
 **AI / LLM Tools:**  
-LangChain.js • OpenAI • Groq • GitHub Copilot • ChatGPT • Firebase Studio • Windsurf  
+RAG • LangChain • OpenAI • Groq • GitHub Copilot • ChatGPT • Firebase Studio • Windsurf  
 
 **Deployment & Hosting:**  
 AWS S3 • AWS CloudFront • AWS EC2 • AWS Route53 • Vercel • CI/CD • Continuous Deployment
 
 **Tools & Others:**  
 Git • GitHub • Postman • VS Code • Vite • ESLint • NPM • PNPM • Agile/Scrum • Copilot • Cursor AI • Claude • Windsurf
+
+
 ---
 
 ⭐ *Thanks for visiting my profile! Feel free to connect or collaborate.*
