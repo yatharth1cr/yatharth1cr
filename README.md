@@ -19,23 +19,18 @@
 
 ## 📄 Experience
 
-**Trainee (Remote)** — AltCampus, Dharamshala  
-*Aug 2023 – Aug 2024*
+**SDE-1 (Remote)** — Space Technologies, Bengaluru, KA  
+*Mar 2025 – present*
 
-**Full Stack Developer (Remote)** — Bengaluru  
-*Aug 2024 – Aug 2025*
+**Software Engineer (Remote)** — Freelance, Bengaluru, KA
+*Jun 2024 – Mar 2025*
 
-**FullStack Developer (Remote)** — Space Technologies, Bengaluru  
-*Aug 2025 – Aug 2026*
+**Trainee Engineer (Remote)** — AltCampus, Dharamshala, HP  
+*Aug 2023 – Jun 2024*
 
----
-
-## 🚀 What I’m Currently Working On
-
-🧠 **LangChain & LLM Projects** — Building AI-powered applications and workflows  
-💼 **Software Developer at Space Technologies** — Working on production-grade systems  
 
 ---
+
 
 ## 🤝 Connect With Me
 
@@ -51,20 +46,20 @@
 ## 🛠️ Tech Stack
 
 **Frontend:**  
-HTML • CSS • JavaScript • React.js • Tailwind CSS • MUI • Bootstrap  
+React.js • Redux • Next.js • Tailwind CSS • Bootstrap • MUI • Formik • Yup • Responsive Web Design • Cross-Browser
+Compatibility • Accessibility
 
 **Backend:**  
-Node.js • Express.js • MongoDB  
+Node.js • Express.js • MongoDB • REST APIs • JWT Authentication • WebSockets
 
 **AI / LLM Tools:**  
 LangChain.js • OpenAI • Groq • GitHub Copilot • ChatGPT • Firebase Studio • Windsurf  
 
 **Deployment & Hosting:**  
-AWS (S3, CloudFront, EC2, Lambda) • Vercel • Render • Hostinger  
+AWS S3 • AWS CloudFront • AWS EC2 • AWS Route53 • Vercel • CI/CD • Continuous Deployment
 
 **Tools & Others:**  
-Git • GitHub • Postman • Figma • Canva • npm • VS Code  
-
+Git • GitHub • Postman • VS Code • Vite • ESLint • NPM • PNPM • Agile/Scrum • Copilot • Cursor AI • Claude • Windsurf
 ---
 
 ⭐ *Thanks for visiting my profile! Feel free to connect or collaborate.*
