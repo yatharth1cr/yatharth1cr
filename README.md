@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=green&amp;size=30&amp;lines=Hi+👋,+I'm+Yatharth+Giri;" style="max-width: 100%;">
 
-**Software Developer | MERN Stack | AWS | Exploring AI & LLMs**
+**Software Engineer | MERN Stack | AWS | Exploring AI & LLMs**
 
 <!-- # 👋 Hi, I’m Yatharth Giri-->
 
@@ -8,12 +8,13 @@
 
 ## 💫 About Me
 
-🚀 Software Developer with experience building scalable and production-ready web applications  
-🌱 Currently exploring **AI-based tech stacks** and **LLM-powered solutions**  
-👯 Open to collaborating on **MERN Stack & AI-driven projects**  
-💬 Ask me about **MERN Stack, AWS, Hosting & Deployment**  
-📫 yatharthgiri187@gmail.com  
-🌐 [Portfolio](https://portfolio-five-olive-73.vercel.app)
+🚀 Software Engineer with 3+ years of experience building scalable, high-performance web applications with React.js, Next.js & Node.js  
+🤖 Exploring AI-powered development, LLMs & modern AI tech stacks  
+⚡️ Experienced in AWS, CI/CD, performance optimization & production deployments  
+🛠️ Building responsive, reusable & production-ready applications with React, Next.js, MongoDB & REST APIs  
+🤝 Open to collaborating on Full Stack, AI-powered & open-source projects  
+💬 Ask me about React.js, Next.js, Node.js, AWS & Deployment  
+📫 yatharthgiri187@gmail.com
 
 ---
 
